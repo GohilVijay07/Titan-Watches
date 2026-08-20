@@ -200,13 +200,17 @@ The main objectives of this project are:
 
 ## 📸 Screenshots
 
-```markdown
-<img src="home.png" alt="home page">
+### 🏠 Home Page
 
-<img src="mens-watches.png" alt="home page">
+<img src="screenshots/home.png" alt="Titan Watches Home Page" width="800">
 
-<img src="womens-watches.png" alt="home page">
-```
+### 👨 Men's Watches
+
+<img src="screenshots/mens-watches.png" alt="Titan Men's Watches Page" width="800">
+
+### 👩 Women's Watches
+
+<img src="screenshots/womens-watches.png" alt="Titan Women's Watches Page" width="800">
 
 ---
 
