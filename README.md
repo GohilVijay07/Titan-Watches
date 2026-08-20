@@ -202,15 +202,15 @@ The main objectives of this project are:
 
 ### 🏠 Home Page
 
-<img src="screenshots/home.png" alt="Titan Watches Home Page" width="800">
+<img src="home.png" alt="Titan Watches Home Page" width="800">
 
 ### 👨 Men's Watches
 
-<img src="screenshots/mens-watches.png" alt="Titan Men's Watches Page" width="800">
+<img src="mens-watches.png" alt="Titan Men's Watches Page" width="800">
 
 ### 👩 Women's Watches
 
-<img src="screenshots/womens-watches.png" alt="Titan Women's Watches Page" width="800">
+<img src="womens-watches.png" alt="Titan Women's Watches Page" width="800">
 
 ---
 
