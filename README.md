@@ -200,16 +200,12 @@ The main objectives of this project are:
 
 ## 📸 Screenshots
 
-> Add screenshots of your website here to showcase the UI.
-
-Example:
-
 ```markdown
-![Home Page](screenshots/home.png)
+<img src="home.png" alt="home page">
 
-![Men's Watches](screenshots/mens-watches.png)
+<img src="mens-watches.png" alt="home page">
 
-![Women's Watches](screenshots/womens-watches.png)
+<img src="womens-watches.png" alt="home page">
 ```
 
 ---
